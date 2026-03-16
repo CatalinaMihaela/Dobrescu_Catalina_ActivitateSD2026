@@ -1,0 +1,6 @@
+5
+Carturesti,1200,85.5
+Humanitas,950,70.0
+Diverta,1500,110.3
+Litera,800,60.8
+Eminescu,1000,95.2
