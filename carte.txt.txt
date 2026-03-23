@@ -1,0 +1,6 @@
+5
+1,Harry Potter,45.5
+2,Atomic Habits,60
+3,Clean Code,75.2
+4,Alchimistul,30
+5,1984,50
