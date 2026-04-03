@@ -1,0 +1,10 @@
+1,300,45.5,Enigma Otiliei,George Calinescu,R
+2,250,60.0,Morometii,Marin Preda,F
+3,180,35.7,Ion,Liviu Rebreanu,C
+4,500,89.9,Baltagul,Mihail Sadoveanu,I
+5,210,50.2,Ultima noapte,Camil Petrescu,D
+6,150,42.3,Maytreyi,Mircea Eliade,E
+7,340,72.0,Amintiri din copilarie,Ion Creanga,B
+8,270,55.1,Padurea spanzuratilor,Liviu Rebreanu,A
+9,190,39.8,Ciuleandra,Liviu Rebreanu,S
+10,410,95.0,Fratii Jderi,Mihail Sadoveanu,H
