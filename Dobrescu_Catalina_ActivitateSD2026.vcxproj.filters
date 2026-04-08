@@ -18,5 +18,38 @@
     <ClCompile Include="Seminar01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Seminar02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Seminar03.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Dobrescu_Catalina01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Dobrescu_Catalia02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Dobrescu_Catalina03.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Dobrescu_04.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Dobrescu_Catalina05.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Dobrescu_Catalina06.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Dobrescu_Catalina07.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Dobrescu_Catalina08.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Dobrescu_Catalina09.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
