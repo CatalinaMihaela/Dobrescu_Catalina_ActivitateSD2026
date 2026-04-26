@@ -1,0 +1,4 @@
+10,21,9.50,Popescu Ion,Informatica,A
+5,22,8.75,Ionescu Maria,Marketing,B
+15,20,9.20,Georgescu Ana,Informatica,C
+3,23,7.80,Dumitrescu Vlad,Finante,A
