@@ -1,0 +1,5 @@
+1,120,55.5,Contract vanzare,Popescu Ion,C
+2,80,30.0,Adeverinta student,Ionescu Ana,A
+3,250,100.0,Licenta Marketing,Tufan Daniel,L
+4,40,20.0,Cerere ANAF,Marinescu Vlad,F
+5,300,150.0,Manual C,Georgescu Mihai,M
