@@ -1,0 +1,10 @@
+1,10,450.5,Ionescu,Schimb ulei,A
+2,14,1200.0,Popescu,Problema motor,C
+3,9,300.0,Marinescu,Verificare frane,B
+4,12,700.0,Dumitrescu,Schimb distributie,C
+5,8,150.0,Vasilescu,Diagnoza,A
+6,16,900.0,Georgescu,Problema electrica,B
+7,11,250.0,Stanescu,Verificare roti,A
+8,15,600.0,Ilie,Schimb placute,B
+9,13,1000.0,Petrescu,Revizie completa,C
+10,17,350.0,Enache,Inlocuire baterie,A
